@@ -1,3 +1,4 @@
 *.onnx
 *.pb
 .DS_Store
+*.bin
